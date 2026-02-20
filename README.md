@@ -1,157 +1,129 @@
-<div align="center" id="top">
-  <img src="https://profile-readme-generator.com/assets/app.png" width="900" alt="Profile Readme Generator" />
+<div align="center">
 
-  <a href="https://profile-readme-generator.com">Demo</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=230&section=header&text=Data%20Analyst&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+
+# Hi 👋 I'm Ibrahim
+
+### Microsoft Certified Data Analyst | Power BI Specialist | SQL Professional
+
+<p align="center">
+  <a href="https://linkedin.com/in/ibrahimbolad">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:bolad68@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<img src="https://readme-typing-svg.herokuapp.com?color=2E86C1&size=22&center=true&vCenter=true&width=600&lines=Power+BI+Dashboard+Engineer;DAX+%26+Data+Modeling+Expert;SQL+Query+Optimization;Business+Focused+Analytics" />
+
 </div>
+
+---
+
+## 🧠 Professional Summary
+
+I specialize in transforming complex data into **clear, executive-level dashboards** that drive real business decisions.
+
+With strong expertise in **Power BI, DAX, Data Modeling, and SQL**, I focus on:
+
+- Designing scalable BI solutions  
+- Building performance-optimized semantic models  
+- Delivering KPI-driven dashboards  
+- Translating business needs into analytical solutions  
+
+My approach combines **technical precision + business understanding + clean design aesthetics**.
+
+---
+
+## 🏆 Certifications & Credentials
+
+- 🎖 Microsoft Certified: **Power BI Data Analyst Associate (PL-300)**
+- 🎖 Microsoft Certified: **Fabric Analytics Engineer Associate (DP-600)**
+- 📊 Google Data Analytics Professional Certificate
+- 🗄 SQL Associate – DataCamp
+- 💼 McKinsey Forward Program – Business & Problem Solving
+
+---
+
+## 🚀 Core Expertise
+
+### 📊 Business Intelligence
+- Advanced Power BI Reporting
+- Complex DAX Calculations
+- Star Schema Modeling
+- Performance Optimization
+- KPI & Executive Dashboard Design
+- Row-Level Security (RLS)
+
+### 🗄 Databases & Querying
+- SQL Server
+- MySQL
+- PostgreSQL
+- Query Optimization
+- Indexing Concepts
+- Data Cleaning & Transformation
+
+### 📈 Analytics & Tools
+- Microsoft Excel (Advanced)
+- Power Query
+- Data Wrangling
+- Figma (Dashboard Wireframing)
+- Microsoft Fabric (Foundations Level)
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,figma,azure" />
+<img src="https://img.icons8.com/color/96/power-bi.png" width="60"/>
+<img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" width="60"/>
+<img src="https://img.icons8.com/color/96/sql.png" width="60"/>
+
+</p>
+
+---
+
+## 📊 What Makes My Work Different?
+
+✔ Clean & Professional Dashboard Design  
+✔ Business-Oriented Metrics (Not Just Visuals)  
+✔ Strong Data Modeling Foundations  
+✔ Performance-Aware Development  
+✔ Clear Storytelling with Data  
+
+---
+
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" width="48%"/>
+</p>
+
+---
+
+## 🎯 Current Focus
+
+- Advanced DAX Patterns  
+- Enterprise Dashboard Architecture  
+- Business Strategy through Analytics  
+- Enhancing Data Modeling Best Practices  
+
+---
+
+## 💡 Professional Philosophy
+
+> Data without structure is noise.  
+> Structured data becomes insight.  
+> Insight drives strategy.
+
+---
 
 <div align="center">
-  <h1>Profile Readme Generator</h1>
-  <h3>The best profile readme generator you will find!</h3>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:243B55,100:141E30&height=120&section=footer"/>
+
 </div>
-
-<p align="center">
-  <a href="https://github.com/maurodesouza/profile-readme-generator/fork" target="_blank">
-    <img src="https://img.shields.io/github/forks/maurodesouza/profile-readme-generator?" alt="Badge showing the total of project forks"/>
-  </a>
-
-  <a href="https://github.com/maurodesouza/profile-readme-generator/stargazers" target="_blank">
-    <img src="https://img.shields.io/github/stars/maurodesouza/profile-readme-generator?" alt="Badge showing the total of project stars"/>
-  </a>
-
-  <a href="https://github.com/maurodesouza/profile-readme-generator/commits/main" target="_blank">
-    <img src="https://img.shields.io/github/commit-activity/m/maurodesouza/profile-readme-generator?" alt="Badge showing average commit frequency per month"/>
-  </a>
-
-  <a href="https://github.com/maurodesouza/profile-readme-generator/commits/main" target="_blank">
-    <img src="https://img.shields.io/github/last-commit/maurodesouza/profile-readme-generator?" alt="Badge showing when the last commit was made"/>
-  </a>
-
-  <a href="https://github.com/maurodesouza/profile-readme-generator/issues" target="_blank">
-    <img src="https://img.shields.io/github/issues/maurodesouza/profile-readme-generator?" alt="Badge showing the total of project issues"/>
-  </a>
-
-  <a href="https://github.com/maurodesouza/profile-readme-generator/pulls" target="_blank">
-    <img src="https://img.shields.io/github/issues-pr/maurodesouza/profile-readme-generator?" alt="Badge showing the total of project pull-requests"/>
-  </a>
-
-  <a href="https://github.com/maurodesouza/profile-readme-generator/blob/master/LICENSE.md" target="_blank">
-    <img alt="Badge showing project license type" src="https://img.shields.io/github/license/maurodesouza/profile-readme-generator?color=f85149">
-  </a>
-</p>
-
-
-<p align="center">
-  <a href="#dart-about">About</a> &#xa0; | &#xa0;
-  <a href="#rocket-main-technologies">Technologies</a> &#xa0; | &#xa0;
-  <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
-  <a href="https://github.com/maurodesouza/profile-readme-generator/blob/main/.github/CONTRIBUTING.md">Contributing</a>
-</p>
-
-## :dart: About ##
-
-Are you tired of manually editing your GitHub profile or missing out on the amazing features you can add to it? 😩 Configuring GitHub actions can also be a hassle, right? Say no more! 💪
-
-**Introducing a tool that lets you beautify your GitHub profile with a customized README, easily and in no time!** ✨ You can include whatever content you want, wherever you want it (*within the limitations of markdown, of course*). 📝
-
-**With this amazing tool, creating your own README has never been so simple and fast.** ⚡ You can save time and focus on what really matters - showcasing your skills and projects. 🚀
-
-**Don't miss out on the opportunity to enhance your GitHub profile.** Give it a try and see for yourself how easy and convenient it is! 😉
-
-
-<p align="center">
-<i>Loved the tool? Please consider <a href="https://www.paypal.com/donate/?hosted_button_id=FR3A2DGVYKGJS">donating 💸</a> to support its continuous<br/> improvement and development!</i>
-</p>
-
-https://user-images.githubusercontent.com/54520907/173442002-dafc63ea-321f-4ce2-b349-be490b3a00ff.mp4
-
-## :rocket: Main Technologies ##
-
-<a href="https://nextjs.org">
-  <img width="50" title="NextJs" alt="Next Logo" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/master/assets/next-logo.svg">
-</a> &#xa0; &#xa0;
-
-<a href="https://www.typescriptlang.org">
-  <img width="50" title="Typescript" alt="Typescript Logo" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/master/assets/typescript-logo.svg">
-</a> &#xa0; &#xa0;
-
-<a href="https://tailwindcss.com">
-  <img width="50" title="Styled Components" alt="Styled Components Logo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png">
-</a> &#xa0; &#xa0;
-
-<a href="https://jestjs.io">
-  <img width="50" title="Jest" alt="Jest Logo" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/master/assets/jest-logo.svg">
-</a> &#xa0; &#xa0;
-
-<a href="https://eslint.org">
-  <img  width="50" title="Eslint" alt="Eslint Logo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png">
-</a> &#xa0; &#xa0;
-
-<a href="https://prettier.io">
-  <img width="50" title="Prettier" alt="Prettier Logo" src="https://prettier.io/icon.png">
-</a>
-
-###
-
-<details>
-  <summary>See more</summary>
-
-  ###
-
-  * [Shadcn](https://ui.shadcn.com)
-  * [Radix](https://www.radix-ui.com)
-  * [Lucid Icons](https://lucide.dev)
-  * [clsx](https://github.com/lukeed/clsx#readme)
-  * [Tailwind Merge](https://github.com/dcastil/tailwind-merge#readme)
-  * [Tailwind Variants](https://www.tailwind-variants.org)
-  * [Framer Motion](https://framer.com/motion/)
-  * [Prismjs](https://prismjs.com)
-  * [HTML Prettify](https://github.com/Dmc0125/html-prettify#readme)
-  * [React Share](https://github.com/nygardk/react-share)
-  * [React Markdown](https://github.com/remarkjs/react-markdown#readme)
-  * [UUID](https://github.com/uuidjs/uuid#readme)
-
-</details>
-
-## :white_check_mark: Requirements ##
-
-Before starting :checkered_flag:, make sure you have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed on your system. ([nvm](https://github.com/nvm-sh/nvm#node-version-manager---) recommended).
-
-## :checkered_flag: Starting ##
-
-```bash
-# Clone this project
-$ git clone https://github.com/maurodesouza/profile-readme-generator
-
-# Access
-$ cd profile-readme-generator
-
-# Install dependencies
-$ yarn
-
-# Run the project
-$ yarn dev
-
-# The server will initialize in the <http://localhost:3000>
-```
-
-## :video_game: Scripts
-
-- `dev`: starts the application at `localhost:3000`;
-- `build`: creates an optimized production build of the application;
-- `start`: starts the application in production mode at localhost:3000 (make sure to run the build first);
-- `test`: runs the tests;
-- `lint`: runs eslint in the /src directory.
-
-## :memo: License ##
-
-This project is licensed under the MIT License. For more details, please refer to the [LICENSE](LICENSE.md) file.
-
-
-Made with :heart: by <a href="https://github.com/maurodesouza" target="_blank">Mauro de Souza</a>
-
-&#xa0;
-
-<a href="#top">Back to top</a>
-
-*Readme created with [Simple Readme](https://marketplace.visualstudio.com/items?itemName=maurodesouza.vscode-simple-readme)*
